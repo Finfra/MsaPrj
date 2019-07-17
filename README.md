@@ -28,5 +28,40 @@ cd ./kubernetes
 ```
 
 
+# BUGS
+
+Please report bugs to nowage[at]gmail.com.
+
+# CONTRIBUTING
+
+The github repository is at https://github.com/Finfra/MsaPrj
+
+# SEE ALSO
+
+Some other stuff.
+
+# AUTHOR
+
+NamJungGu, <nowage[at]gmail.com>
+
+# COPYRIGHT AND LICENSE
+
+(c) Copyright 1997-2019 by SKB Co., LTD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
