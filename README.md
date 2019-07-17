@@ -1,5 +1,5 @@
 # MsaPrj
-Kubernetes Project for MSA
+Kubernetes Project for MSA.
 
 ## Info
 - 목적 : Docker Build & Kubernetes Build
