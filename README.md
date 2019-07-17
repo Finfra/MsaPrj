@@ -5,6 +5,7 @@ Kubernetes Project for MSA.
 - 목적 : Docker Build & Kubernetes Build
 - 구성요소 : Nginx/HtmlCode
 - 요건 : Docker build와 kubernetes배포 스크립트
+- Kubernetes 환경 : https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster
 
 ## Folder Architecture
 * DockerScript : ./docker
@@ -16,17 +17,20 @@ Kubernetes Project for MSA.
 cd ./docker
 . build.sh
 ``` 
+
 * Docker Hub Push
 ```
 cd ./docker
 . push.sh
 ```
+
 * Kubernetes Provisioning
 ```
 cd ./kubernetes
 . kubProvsion.sh
 ```
-
+# Result
+![result](img/result.png)
 
 # BUGS
 
